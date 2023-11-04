@@ -2,6 +2,8 @@
 
 The Chess Cheat app is designed to assist you in chess by providing the best moves. Please note that using this app in tournaments is unethical and strongly discouraged (in any case with a timer it's extremely difficult to win). The app operates by transmitting your opponent's move to a bot when you discreetly move your leg, and then it signals the best move for you to make via vibrations.
 
+https://snack.expo.dev/@robin.bigeard/chess-cheat?platform=mydevice
+
 ![DALL·E presentation](./doc/DALL·E.png)
 
 ## Play the move of the opponent

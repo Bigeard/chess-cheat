@@ -1,0 +1,3 @@
+[submodule "stockfish-server"]
+	path = stockfish-server
+	url = https://github.com/Bigeard/stockfish-server

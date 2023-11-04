@@ -14,7 +14,7 @@ import EmptyBoard from './components/EmptyBoard';
 import Pieces from './components/Pieces';
 import Moves from './components/Moves';
 
-const URL_STOCKFISH_SERVER = '';
+const URL_STOCKFISH_SERVER = 'http://vps-797577ef.vps.ovh.net:8989';
 const TIMER_NEXT_STEP = 1000;
 const theme = makeTheme({});
 const chess = new Chess();

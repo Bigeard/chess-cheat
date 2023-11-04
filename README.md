@@ -12,8 +12,7 @@ When it's your opponent's turn, transcribe the action to the bot, giving the sta
 
 Simply raise your leg by 10 degrees. Then select a position between 1 and 8. Vibrations are emitted for the count. After you need to come back 0 degree and wait 1 second to validate (you must perform this action 4 times for the `FROM` and `TO`).
 
-
-<img src="./doc/explain.png" alt="explain" style="width:100%; image-rendering: pixelated;"/>
+![explain](./doc/explain.png)
 
 ## Play the move of the bot ("best move")
 
@@ -36,7 +35,7 @@ And use Expo Go or else.
 `npm i`  
 `npm start`
 
-And change URL in `App.tsx`.
+And change URL in `App.tsx` (HTTP POST request).
 
 
 ## Thanks
